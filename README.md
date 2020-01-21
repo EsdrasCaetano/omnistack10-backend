@@ -10,6 +10,7 @@ Estas instruções permitirão copiar o projeto e rodá-lo localmente para prop�
 - [Yarn](https://yarnpkg.com/lang/en/) ou [NPM](https://www.npmjs.com/get-npm)
 - [MongoDB](https://www.mongodb.com/)
 - [Git](https://git-scm.com/)
+- [Axios](https://github.com/axios/axios)
 
 ## Backend
 
