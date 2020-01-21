@@ -51,3 +51,9 @@ Inserir o comando a baixo na pasta desejada para salvar o projeto.
   useNewUrlParser: true,
   useUnifiedTopology: true
 });`
+
+## Para executar o sistema
+
+Digite no terminal do diretorio
+
+`yarn dev`
